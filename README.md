@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## 👀 About Me
-- I’m currently wokring on **data science** and **software development**.
+- I’m currently wokring on  **software development** and **Devops-Cloud Projects**.
 - I’m excited about collaborating on **adventurous trips** and **developing new websites**.
 
 ## 🌱 What I'm Learning
