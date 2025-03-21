@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Sai Srunith Silvery <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@saisrunith.software;Computer+Software+engineer;Competitive+Programmer;Cloud+Computing+professional;Machine+Learning+enthusiast;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@saisrunith.software;Computer+Software+engineer;Competitive+Programmer;Cloud+Computing+professional;Software+Engineering+enthusiast;Always+learning+new+things"></a>
 </p>
 
 
