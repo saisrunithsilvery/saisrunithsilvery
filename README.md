@@ -15,7 +15,7 @@
 
 <br><br>
 
-- :school: I am a `Cloud Engineer and Machine Learning enthusiast currently pursuing `masters in Computer Software Engineering at Northeastern University
+- :school: I am a `Software Engineer and Machine Learning enthusiast currently pursuing `masters in Computer Software Engineering at Northeastern University
 - :Technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Leetcode`, `Codechef`.
 - :nerd_face: Always `learning new things`.
